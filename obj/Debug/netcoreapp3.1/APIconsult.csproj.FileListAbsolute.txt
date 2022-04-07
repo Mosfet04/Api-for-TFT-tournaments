@@ -1,0 +1,16 @@
+C:\Users\mateus.ribeiro_cmtec\Desktop\ApagarDepois\APIconsult\bin\Debug\netcoreapp3.1\APIconsult.exe
+C:\Users\mateus.ribeiro_cmtec\Desktop\ApagarDepois\APIconsult\bin\Debug\netcoreapp3.1\APIconsult.deps.json
+C:\Users\mateus.ribeiro_cmtec\Desktop\ApagarDepois\APIconsult\bin\Debug\netcoreapp3.1\APIconsult.runtimeconfig.json
+C:\Users\mateus.ribeiro_cmtec\Desktop\ApagarDepois\APIconsult\bin\Debug\netcoreapp3.1\APIconsult.runtimeconfig.dev.json
+C:\Users\mateus.ribeiro_cmtec\Desktop\ApagarDepois\APIconsult\bin\Debug\netcoreapp3.1\APIconsult.dll
+C:\Users\mateus.ribeiro_cmtec\Desktop\ApagarDepois\APIconsult\bin\Debug\netcoreapp3.1\APIconsult.pdb
+C:\Users\mateus.ribeiro_cmtec\Desktop\ApagarDepois\APIconsult\obj\Debug\netcoreapp3.1\APIconsult.csproj.AssemblyReference.cache
+C:\Users\mateus.ribeiro_cmtec\Desktop\ApagarDepois\APIconsult\obj\Debug\netcoreapp3.1\APIconsult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.ribeiro_cmtec\Desktop\ApagarDepois\APIconsult\obj\Debug\netcoreapp3.1\APIconsult.AssemblyInfoInputs.cache
+C:\Users\mateus.ribeiro_cmtec\Desktop\ApagarDepois\APIconsult\obj\Debug\netcoreapp3.1\APIconsult.AssemblyInfo.cs
+C:\Users\mateus.ribeiro_cmtec\Desktop\ApagarDepois\APIconsult\obj\Debug\netcoreapp3.1\APIconsult.csproj.CoreCompileInputs.cache
+C:\Users\mateus.ribeiro_cmtec\Desktop\ApagarDepois\APIconsult\obj\Debug\netcoreapp3.1\APIconsult.dll
+C:\Users\mateus.ribeiro_cmtec\Desktop\ApagarDepois\APIconsult\obj\Debug\netcoreapp3.1\APIconsult.pdb
+C:\Users\mateus.ribeiro_cmtec\Desktop\ApagarDepois\APIconsult\obj\Debug\netcoreapp3.1\APIconsult.genruntimeconfig.cache
+C:\Users\mateus.ribeiro_cmtec\Desktop\ApagarDepois\APIconsult\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mateus.ribeiro_cmtec\Desktop\ApagarDepois\APIconsult\obj\Debug\netcoreapp3.1\APIconsult.csproj.CopyComplete

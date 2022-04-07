@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XXVRkPngUvXpXpsvo3mt0L9Khf2PLFxqDNGoronLgkkAWnnxKLVPxIF3UucHcVzeP5MjRu70yyXxRp0Y/7Q51A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mateus.ribeiro_cmtec\\Desktop\\ApagarDepois\\APIconsult\\APIconsult.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateus.ribeiro_cmtec\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
