@@ -9,8 +9,9 @@
         public int profileIconId { get; set; }
         public double revisionDate { get; set; }
         public int summonerLevel { get; set; }
-
         public int lastPosition { get; set; }
+        public int bracketPosition { get; set; }
 
+        public string matchIDTornament { get; set; }
     }
 }
