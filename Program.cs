@@ -10,6 +10,11 @@ namespace APIconsult
     {
         static async Task Main()
         {
+            dynamic dinamico = 1;
+            dinamico = dinamico + 3;
+            Type tp = dinamico.GetType();
+            Console.WriteLine(tp);
+
             CreateNewBracket bracket = new CreateNewBracket();
             string exit = "s";
             string[] NomesPlayers = new string[16];
